@@ -1,4 +1,4 @@
-# DANOSHOP 클론코딩 
+# AirBnb 클론코딩 
 
 ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/68773118/115060264-a0c68000-9f22-11eb-8c3d-c009883847c3.gif)
 
@@ -18,18 +18,18 @@ Front-end 1인/Back-end 1인
 ![image](https://user-images.githubusercontent.com/68773118/115060388-c489c600-9f22-11eb-8b1d-d88cc5d25ad1.png)
 ### 시연영상 [Youtube](https://youtu.be/8M8cc51CJL8)
 
-리액트를 이용한 첫 팀 프로젝트를 진행했습니다.
+리액트를 이용한 첫 클론코딩 프로젝트를 진행했습니다.
 
-평소 관심있던 건강한 식단 전문 쇼핑몰인 다노샵을 클론코딩했습니다. 
+평소 관심있던 airbnb를 클론코딩했습니다. 
 
 ## 🛠 Tools
 ```
 - View (React with JavaScript, React-Router, material-UI, Styled-components)
-- State Management (Redux, Redux-Thunk, Immer, Redux-actions)
+- State Management (Redux, Redux-Thunk, Redux-actions)
 - Build Tool (Create React App)
 - Code Quality Tool (Prettier)
 - Infrastructure (AWS S3, Route 53)
-- Other Tools (Git, Github, notion, Slack, Figma, Google Docs)
+- Other Tools (Git, Github, notion, Slack, Figma)
 ```
 
 <br/>
